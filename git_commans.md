@@ -16,7 +16,6 @@ git add: agregar del directorio al stagimg
 
 git commit: para pasar del staging al commit
 
-
 git push: para subir un repositorio del local al remoto 
 
 git merge: para fusionar ramas 
